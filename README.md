@@ -36,4 +36,4 @@ This repository contains my solutions for seven problem sets and one final proje
 * [sentimental-connect](Part6_Scaling/sentimental-connect)
 
 ## Final Project
-* [project](Project)
+* [JobHunt](Project)
